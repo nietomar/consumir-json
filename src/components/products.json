@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Monitor",
+		"price": 80,
+		"discount": 15,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Chile Tajín",
+		"price": 230,
+		"discount": 20,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Celular",
+		"price": 140,
+		"discount": 10,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Mouse",
+		"price": 60,
+		"discount": 30,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Monitor",
+		"price": 120,
+		"discount": 15,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Teclado",
+		"price": 60,
+		"discount": 40,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "PC",
+		"price": 220,
+		"discount": 5,
+		"url": "https://picsum.photos/180"
+	},
+	{
+		"name": "Laptop",
+		"price": 90,
+		"discount": 24,
+		"url": "https://picsum.photos/180"
+	}
+]
