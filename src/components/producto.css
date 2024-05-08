@@ -1,0 +1,39 @@
+.card{
+    width: 220px;
+    background-color: white;
+    margin-bottom: 5rem;
+    border-radius: 15px;
+    position: relative;
+    padding-bottom: 1rem;
+}
+
+img{
+    display: block;
+    aspect-ratio: 3/2;
+    margin: auto;
+    border-radius: 12px;
+}
+
+h4{
+    text-align: center;
+    margin-top: 0.5rem;
+    margin-bottom: 1.2rem;
+}
+
+.separador{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.izq{
+    display: flex;
+}
+.old{
+    text-decoration: line-through;
+    color: #828282;
+    margin-right: 0.4rem;
+}
+.new{
+    font-weight: 500;
+}

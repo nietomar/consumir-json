@@ -1,0 +1,17 @@
+.container {
+    background-color: #BFBFBF;
+    width: 90%;
+    padding: 0.5rem;
+    margin: auto;
+}
+
+.titulo{
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.producto-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

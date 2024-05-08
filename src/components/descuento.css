@@ -1,0 +1,9 @@
+.descuento{
+    background-color: red;
+    width: min-content;
+    padding: 4px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 0 15px 0 0;
+}
